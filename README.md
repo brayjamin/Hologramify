@@ -1,5 +1,4 @@
-Holographic Displays
-===================
+This is a fork of Holographic Displays called Hologramify.
 
 Bukkit Dev Page: http://dev.bukkit.org/bukkit-plugins/holographic-displays
 
